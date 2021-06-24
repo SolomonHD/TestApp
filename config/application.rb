@@ -16,5 +16,6 @@ module TestApp
     # -- all .rb files in that directory are automatically loaded.
     # Another rails comment added here
     test = 2
+    test2 = 45
   end
 end
